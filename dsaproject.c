@@ -169,7 +169,9 @@ int main() {
            "=============================="
            "====\n");
     printf("\n\n\n\t\t\t\t\t\t\t\t\t\t"
-           "Developer : @Sushant_Gaurav"
+           "DeveloperS : DEVANSH ARYAN
+                         ARUSH VERMA
+                         AREEB AHMED"
            "\n\n\t\t\t\t");
 
     system("pause");
