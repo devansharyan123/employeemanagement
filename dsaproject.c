@@ -169,9 +169,7 @@ int main() {
            "=============================="
            "====\n");
     printf("\n\n\n\t\t\t\t\t\t\t\t\t\t"
-           "DeveloperS : DEVANSH ARYAN
-                         ARUSH VERMA
-                         AREEB AHMED"
+           "Developer : DEVANSH ARYAN \n \t\t\t\t\t\t\t\t\t\t\t ARUSH VERMA\n \t\t\t\t\t\t\t\t\t\t\t AREEB AHMED "
            "\n\n\t\t\t\t");
 
     system("pause");
